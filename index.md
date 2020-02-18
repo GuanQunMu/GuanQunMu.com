@@ -1,3 +1,11 @@
+# Projects
+
+## Control System of Ion Traps & Zeeman Scan and Rabi Scan
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/GuanQunMu/GuanQunMu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
