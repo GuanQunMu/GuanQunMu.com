@@ -1,7 +1,10 @@
 # Skills
 20 k+ lines Python & Javascript Codes
+
 1 year+ FPGA Programing Experience (Verilog)
+
 1 year+ Matlab & Mathematica Experience
+
 2 years+ Physical Simulation Experience 
 
 
