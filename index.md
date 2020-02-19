@@ -1,13 +1,13 @@
 # Projects
 
 ## Designing Control System for Ion Traps & Zeeman Scan and Rabi Scan of Single Qubit
-### *March, 2019 -- June, 2019 & September, 2019-- Now*
+**_March, 2019 -- June, 2019 & September, 2019-- Now_**
 
-### *Mang Feng's Ion Trap Group, WIPM (Wuhan Institute of Physics and Mathematics) ,CAS (Chinese Academy of Sciences)*
+**_Mang Feng's Ion Trap Group, WIPM (Wuhan Institute of Physics and Mathematics) ,CAS (Chinese Academy of Sciences)_**
 
 
 ## Time Tagging of Photons from Ion Traps
-#### *June, 2019 -- September, 2019*
+ *June, 2019 -- September, 2019*
 
 #### *Manas Mukherjee's Ion Trap Group, CQT, NUS (National University of Singapore)*
 
