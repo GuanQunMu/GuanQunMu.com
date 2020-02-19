@@ -1,8 +1,11 @@
 # Skills
+20 k+ lines Python & Javascript Codes
+1 year+ FPGA Programing Experience (Verilog)
+1 year+ Matlab & Mathematica Experience
+2 years+ Physical Simulation Experience 
 
 
-
-# Projects
+# Research Experience
 
 ## Designing Control System for Ion Traps & Zeeman Scan and Rabi Scan of Single Qubit
 _March, 2019 -- June, 2019 & September, 2019-- Now_
