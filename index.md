@@ -1,3 +1,5 @@
+
+
 <table border="0">
   <tr>
     <td width="30%">
@@ -5,9 +7,8 @@
     </td>
     <td width="70%">
       
-      <p><b>My name is Guanqun Mu (穆冠群). I am studying for a B.Sc. degree at Physic Department, Wuhan University.</b></p>
-      <p><b>I used to be a researcher at CQT(Center for Quantum Technology), WIPM(Wuhan Institute of Physics and Mathematics,CAS) and USTC(University of Science and Technology of China)</b></p>
-      <p><b></b></p>
+      <p>My name is Guanqun Mu (穆冠群). I am studying for a B.Sc. degree at Physic Department, Wuhan University.</p>
+      <p>I am interested at quantum information science and technology. especially ion trap model and quantum error correction algorithm</p>
     </td>
   </tr>
 </table>
