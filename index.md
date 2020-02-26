@@ -2,10 +2,10 @@
 
 <table border="0">
   <tr>
-    <td width="40%">
+    <td width="35%">
       <img src="/DSC_251.jpg" width="100%">
     </td>
-    <td width="60%">
+    <td width="65%">
       
       <p>My name is Guanqun Mu (穆冠群). </p>
       <p> I am studying for a B.Sc. degree at Physic Department, Wuhan University.</p>
