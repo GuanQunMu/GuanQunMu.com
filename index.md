@@ -2,10 +2,10 @@
 
 <table border="0">
   <tr>
-    <td width="30%">
+    <td width="40%">
       <img src="/DSC_251.jpg" width="100%">
     </td>
-    <td width="70%">
+    <td width="60%">
       
       <p>My name is Guanqun Mu (穆冠群). I am studying for a B.Sc. degree at Physic Department, Wuhan University.</p>
       <p>I am interested at quantum information science and technology. especially ion trap model and quantum error correction algorithm</p>
