@@ -9,7 +9,7 @@
       
       <p>My name is Guanqun Mu (穆冠群). </p>
       <p> I am studying for a B.Sc. degree at Physic Department, Wuhan University.</p>
-      <p>I am interested in quantum information science and technology. especially ion trap model(Experiement) and realization and simulation of quantum error correction algorithm</p>
+      <p>I am interested in quantum information science and technology. especially <b>ion trap model</b>(Experiement) and realization and simulation of <b>quantum error correction algorithm</b></p>
     </td>
   </tr>
 </table>
