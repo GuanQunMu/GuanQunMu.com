@@ -1,4 +1,4 @@
-![image](https://github.com/GuanQunMu/guanqunmu.github.com/DSC_251.jpg)
+<img src="https://github.com/GuanQunMu/guanqunmu.github.com/blob/master/DSC_251.jpg" width="300"/>
 
 My name is Guanqun Mu (穆冠群). I am studying for a B.Sc. degree at Physic Department, Wuhan University.
 
