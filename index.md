@@ -16,16 +16,16 @@
 ## Research Experience
 
 **Designing Control System for Ion Traps & Zeeman Scan and Rabi Scan of Single Qubit**  
-Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM) ,Chinese Academy of Sciences (CAS)
-_March, 2019 -- June, 2019 & September, 2019-- Now_  
+Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM) ,Chinese Academy of Sciences (CAS)  
+_March, 2019 -- June, 2019 & September, 2019-- Now_
 
 **Time Tagging of Photons from Ion Traps**  
-Manas Mukherjee's Ion Trap Group, CQT, National University of Singapore (NUS)
- _June, 2019 -- September, 2019_  
+Manas Mukherjee's Ion Trap Group, CQT, National University of Singapore (NUS)  
+ _June, 2019 -- September, 2019_
 
 **Simulation of Surface Code and Toric Code**  
-Yongjian Han's Theory Group, University of Science and Technology of China (USTC)
-_July, 2018 -- January, 2019_  
+Yongjian Han's Theory Group, University of Science and Technology of China (USTC)  
+_July, 2018 -- January, 2019_
 
 ## Skills
 20 k+ lines Python & Javascript Codes  
