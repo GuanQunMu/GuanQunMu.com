@@ -54,14 +54,14 @@ With FPGA Programing (Verilog) and Python, I designed a system that can tag the 
 
 <table border="0">
   <tr>
-    <td width="75%">
-      <img src="/TimeTagging.png" width="100%">
+    <td width="100%">
+      <img src="/TimeTagging.png" width="75%">
       
     </td>
   </tr>
 </table>
 
-This figure shows How do PLLs, counters and flip-flops is connected in the FPGA. 
+This figure shows What happens in FPGA: From the binary bit string transmitted by the JTAG protocol on the far left, the data passes through the translator to determine when to end the experiment. In the meanwhile, the signal from the PLL passes through the counter to determine the current time, waiting for the signal in the PMT to trigger.
 
 ___
 
