@@ -26,18 +26,18 @@ March, 2019 -- Now
 
 <table border="0">
   <tr>
-    <td width="40%">
-      <img src="/How_does _CS_work.png" width="100%">
+    <td width="42%">
+      <img src="/How_does _CS_work.png" width="100%">(a)
       
     </td>
-    <td width="60%">
-      <img src="/Dashboaed.png" width="100%">
+    <td width="58%">
+      <img src="/Dashboaed.png" width="100%">(b)
       
     </td>
   </tr>
 </table>
 
-The left figure shows the structure of control system for ion traps based Artiq. The right figure shows The dashboard and customized GUI. 
+(a) Structure of our control system for ion traps based on artiq. (b) The dashboard and customized GUI. 
 
 For more detalls, click here to see the github page of our contorl system :[https://github.com/GuanQunMu/IonTrap-WIPM](https://github.com/GuanQunMu/IonTrap-WIPM)
 
