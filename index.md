@@ -66,13 +66,28 @@ This figure shows What happens in FPGA: From the binary bit string transmitted b
 ___
 
 
-### **Simulation of Surface Code and Toric Code**  
+### **Simulation of the Surface Code and Toric Code**  
 >Yongjian Han's Theory Group, University of Science and Technology of China (USTC)  
 July, 2018 -- January, 2019
 
-Surface code and toric code are one of the most popular quantum error correction codes. (Widely used in superconducting quantum computing).
+The surface code and toric code are one of the most popular quantum error correction codes. (Widely used in superconducting quantum computing).
 
-I designed a program in javascript to simulate the operation of surface code and toric code, explored their thresholds under specific conditions, and verified their properties: The fidelity of logic gates will increase as the size of the qubits increases when its logical error rate is below the threshold.
+I designed a program in javascript to simulate the operation of the surface code and toric code, explored their thresholds under specific conditions, and verified their properties: The fidelity of logic gates will increase as the size of the qubits increases when its logical error rate is below the threshold.
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="/Face.png" width="100%">
+      
+    </td>
+    <td width="50%">
+      <img src="/TORIC.png" width="100%">
+      
+    </td>
+  </tr>
+</table>
+
+(a) A two-dimensional array implementation of the surface code. (b) The fidelity of one logical qubit array. The x-axis represents the error rate of the logic gate, and the y represents the number of errors in 10,000 Monte Carlo samples. Different colors represent different array sizes. It can be found that the threshold is 0.1050.
 
 For more detalls, You can go to my Github page to use my surface code program: [**https://github.com/GuanQunMu/Surface-Code**](https://github.com/GuanQunMu/Surface-Code)
 
