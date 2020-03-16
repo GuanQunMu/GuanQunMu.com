@@ -38,7 +38,7 @@ March, 2019 -- Now
 
 (a) Structure of our control system for ion traps based on artiq. (b) The dashboard and customized GUI. 
 
-For more detalls, click here to see the github page of our contorl system :[https://github.com/GuanQunMu/IonTrap-WIPM](https://github.com/GuanQunMu/IonTrap-WIPM)
+Click here to see the github page of our contorl system and use it: [https://github.com/GuanQunMu/IonTrap-WIPM](https://github.com/GuanQunMu/IonTrap-WIPM)
 
 ___
 
@@ -89,7 +89,7 @@ I designed a program in javascript to simulate the operation of the surface code
 
 (a) A two-dimensional array implementation of the surface code. (b) The fidelity of one logical qubit array. The x-axis represents the error rate of the logic gate, and the y represents the number of errors in 100,000 Monte Carlo samples. Different colors represent different array sizes. It can be found that the threshold is 0.1050.
 
-For more detalls, You can go to my Github page to use my surface code program: [https://github.com/GuanQunMu/Surface-Code](https://github.com/GuanQunMu/Surface-Code)
+Click here to see the Github page of this project and use my surface code program: [https://github.com/GuanQunMu/Surface-Code](https://github.com/GuanQunMu/Surface-Code)
 
 
 ## GPA
