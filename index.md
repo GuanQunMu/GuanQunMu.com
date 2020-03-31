@@ -54,7 +54,10 @@ With FPGA Programing (Verilog) and Python, I designed a system that can tag the 
 
 <table border="0">
   <tr>
-    <td width="100%">
+    <td width="30%">
+      <img src="/coherent.gif" width="100%">(a)
+    </td>
+    <td width="70%">
       <img src="/TimeTagging.png" width="75%">
       
     </td>
