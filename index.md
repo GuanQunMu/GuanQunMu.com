@@ -97,7 +97,7 @@ Click here to see the Github page of this project and use my surface code progra
 
 ___
 
-### **4. Dynamical Decoupling of a Single Ca+ Ion Qubit (still in progress as my undergraduate thesis)**
+### **4. Experimental Dynamical Decoupling of a Single Ca+ Ion Qubit (still in progress as my undergraduate thesis)**
 >Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM) ,Chinese Academy of Sciences (CAS)  
 January, 2020 -- Now
 
