@@ -101,7 +101,8 @@ ___
 >Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM) ,Chinese Academy of Sciences (CAS)  
 January, 2020 -- Now
 
-Temporarily suspended because of the COVID-19. To be continued ......
+Temporarily suspended because of the outbreak of COVID-19. To be continued ......  
+Don't worry, I'm healthy now :)
 
 ___
 
