@@ -16,7 +16,7 @@
 ## **Research Experience**
 
 
-### **Designing the Control System for Rabi Scan and Zeeman Scan of qubits in Ion Traps**
+### 1. **Designing the Control System for Rabi Scan and Zeeman Scan of qubits in Ion Traps**
 >Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM) ,Chinese Academy of Sciences (CAS)  
 March, 2019 -- Now
 
@@ -46,7 +46,7 @@ ___
  
  
  
-### **Time Tagging of Photons emitted from Ion Traps**  
+### 2. **Time Tagging of Photons emitted from Ion Traps**  
 >Manas Mukherjee's Ion Trap Group, CQT, National University of Singapore (NUS)  
  June, 2019 -- September, 2019
  
@@ -69,7 +69,7 @@ It required an experimental control system to achieve it. With FPGA Programing (
 ___
 
 
-### **Simulation of the Surface Code and Toric Code**  
+### 3. **Simulation of the Surface Code and Toric Code**  
 >Yongjian Han's Theory Group, University of Science and Technology of China (USTC)  
 July, 2018 -- January, 2019
 
@@ -97,7 +97,7 @@ Click here to see the Github page of this project and use my surface code progra
 
 ___
 
-### **Dynamical Decoupling of a Single Ca+ Ion Qubit (still in progress as my undergraduate thesis)**
+### 4. **Dynamical Decoupling of a Single Ca+ Ion Qubit (still in progress as my undergraduate thesis)**
 >Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM) ,Chinese Academy of Sciences (CAS)  
 
 Temporarily suspended because of the COVID-19. To be continued ......
