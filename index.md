@@ -46,7 +46,7 @@ ___
  
  
  
-### 2. **Time Tagging of Photons emitted from Ion Traps**  
+### **2. Time Tagging of Photons emitted from Ion Traps**  
 >Manas Mukherjee's Ion Trap Group, CQT, National University of Singapore (NUS)  
  June, 2019 -- September, 2019
  
@@ -99,6 +99,7 @@ ___
 
 ### 4. **Dynamical Decoupling of a Single Ca+ Ion Qubit (still in progress as my undergraduate thesis)**
 >Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM) ,Chinese Academy of Sciences (CAS)  
+January, 2020 -- Now
 
 Temporarily suspended because of the COVID-19. To be continued ......
 
