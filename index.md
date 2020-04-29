@@ -17,7 +17,7 @@
 
 
 ### **1. Designing the Control System for Rabi Scan and Zeeman Scan of qubits in Ion Traps**
->Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM) ,Chinese Academy of Sciences (CAS)  
+>Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM), Chinese Academy of Sciences (CAS), P. R. China  
 March, 2019 -- Now
 
   Applied by a laser with the rabi frequency, a two-level ion will continuously oscillates between levels. Ones can control the quantum gate acting on a qubit by setting the rabi oscillation time, which is called the rabi scan. An control system is required to achieve it. ARTIQ was initiated by the Ion Storage Group at NIST as the control system of ion traps. It integrates FPGA, AOM and DDS, and can control experimental processes through Python. 
@@ -70,7 +70,7 @@ ___
 
 
 ### **3. Simulation of the Surface Code and Toric Code**  
->Yongjian Han's Theory Group, University of Science and Technology of China (USTC)  
+>Yongjian Han's Theory Group, University of Science and Technology of China (USTC) , Hefei, Anhui ,P. R. China
 July, 2018 -- January, 2019
 
 As the number of qubits of a quantum computer increases, the error rate of the final result will increase exponentially. Therefore, the surface code was designed to avhieve fault-tolerant quantum computing, which demands that the error of a single gate is below a certain threshold.
