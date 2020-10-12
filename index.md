@@ -116,8 +116,15 @@ ___
 
 ___
 
- 
+## **Language**
+
+**Mandarin**:  
+Native Speaker 
+
+**English**:  
+TOEFL IBT:  
+reading: 29 listening: 22 speaking: 19( the best in history: 21) writing: 22
 
 ## **Contact**
 
-E-mail: **guanqun_mu@whu.edu.cn**
+E-mail: **guanqun_mu@whu.edu.cn**  **guanqun.mo@gmail.com**
