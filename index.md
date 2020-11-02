@@ -20,9 +20,9 @@
 >Mang Feng's Ion Trap Group, Wuhan Institute of Physics and Mathematics (WIPM), Chinese Academy of Sciences (CAS), P. R. China  
 March 2019 -- September 2020
 
-  Applied by a laser with the rabi frequency, a two-level ion will continuously oscillate between the ground state and the excited state. One can achieve the quantum gate acting on a qubit by setting the rabi oscillation time, and this is called the rabi scan. A control system is essential to do it. We used The ARTIQ, which was initiated by the Ion Storage Group at NIST, as the control system for our experiments. It integrates FPGA, AOM and DDS, and one can design the experiment through Python. 
+  Applied by a laser with the rabi frequency, a two-level ion will continuously oscillate between the ground state and the excited state. One can achieve the quantum gate acting on a qubit by setting the rabi oscillation time, which is known as the Rabi scan. A control system is essential to do it. We used The **ARTIQ**, which was initiated by the Ion Storage Group at NIST, as the control system for our experiments. It integrates FPGA, AOM and DDS, and one can design the experiment through Python. 
   
-  In our group, as the main developer of the control system based on Artiq, I designed functions such as Zeeman scan, Rabi scan, AWG controlling (to improve the fidelity of MS gates), spin-echo (to increase the t2 of qubits), and quantum Lock-in amplifier (for quantum sensing). In addition, to customize the experimental process, I redesigned the GUI in Python.
+  In our group, as the main developer of the control system based on Artiq, I designed functions such as **Zeeman scan**, **Rabi scan**, **AWG controlling** (to improve the fidelity of MS gates), **spin-echo** (to increase the t2 of qubits), and **quantum Lock-in amplifier** (for quantum sensing). In addition, to customize the experimental process, I redesigned the GUI in Python.
 
 <table border="0">
   <tr>
@@ -52,7 +52,7 @@ ___
  
 As one of the solutions for particles constrained in a second potential well, the coherent state, which approximates the classical trajectory, can be made and detected in an ion trap. To detect the coherent state, ones should apply a laser at a specific position, tag the time of the photon emitted by the excited ion when the wave packet moves to the same position, and observe the gap period between the time when the state is created and the time when a photon is detected.
 
-It required an experimental control system to achieve it. With FPGA Programing (Verilog) and Python, I designed a system that can tag the time of photons emitted from ion traps. It contains communication between the PC and the FPGA with the JTAG protocol, and FPGA programs to collect, analyse and store the data of TTL signals from PMT and to tag the time of photons emission .
+It required an experimental control system to achieve it. With **FPGA Programing** (Verilog) and Python, I designed a system that can tag the time of photons emitted from ion traps. It contains communication between the PC and the FPGA with the JTAG protocol, and FPGA programs to collect, analyse and store the data of TTL signals from PMT and to tag the time of photons emission .
 <table border="0">
   <tr>
     <td width="35%">
@@ -73,9 +73,9 @@ ___
 >Yongjian Han's Theory Group, University of Science and Technology of China (USTC), Hefei, Anhui,P. R. China
 July 2018 -- January 2019
 
-The fault-tolerant quantum computing, which is the next step of quantum computing, requires a quantum error correction algorithm. One of its candidates is surface code, with the property that the logical fidelity can be improved as the number of physical qubits involved increases. However, it works only with the fidelity of physical qubits gate under the threshold.
+The fault-tolerant quantum computing, which is the next step of quantum computing, requires a **quantum error correction algorithm**. One of its candidates is surface code, with the property that the logical fidelity can be improved as the involved qubits' number increases. However, it works only with the fidelity of physical qubits gate under the threshold.
 
-To find the threshold, I designed a program in javascript to simulate the surface code and toric code, explored their thresholds under specific conditions, and verified the properties: The fidelity of logic gates will be improved as the size of the qubits increases when its physical qubits error rate is under the threshold.
+To find the threshold, I designed a program in javascript to simulate the **surface code** and **toric code**, explored their **thresholds** under specific conditions, and verified the properties: The fidelity of logic gates will be improved as the size of the qubits increases when its physical qubits error rate is under the threshold.
 
 <table border="0">
   <tr>
@@ -118,7 +118,7 @@ ___
 
 ## **Language**
 English (TOEFL IBT):  
-reading **(29)** / listening **(22)** / speaking **(19)**( the best in history **21**) / writing **(22)**
+reading **(29)** / listening **(22)** / speaking **(19)**( the best in history **22**) / writing **(22)**
 
 Mandarin:  
 Native Speaker 
