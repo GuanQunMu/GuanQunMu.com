@@ -124,7 +124,7 @@ ___
 
 ## **Language**
 English (TOEFL IBT):  
-reading **(29)** / listening **(22)** / speaking **(19)**( the best in history **22**) / writing **(22)**
+reading **(27)** / listening **(25)** / speaking **(22)** / writing **(20)**
 
 Mandarin:  
 Native Speaker 
